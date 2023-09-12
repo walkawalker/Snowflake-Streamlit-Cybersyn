@@ -1,0 +1,4 @@
+name: INFLATION_DATA_APP
+ 
+dependencies:
+    - plotly
